@@ -1,11 +1,9 @@
-# Marzieh
-
-## Featured project: CVision
+# CVision: my part of a team CV app
 
 **[CVision](https://github.com/Ali-Paybarjay/CVision)** tailors a UK CV and cover letter to any job ad, without inventing anything.
 Live: https://cvision-eta.vercel.app
 
-A four-person team project, built in October and November 2026, with each of us coding with Claude Code.
+A four-person team project, built in October and November 2026, with each of us coding with Claude Code. This repository shows my part of the project. The code is in the team's repository, linked above.
 
 **My role: product manager, team coordinator and developer.**
 
